@@ -1,0 +1,158 @@
+{
+	"knownSymbols": {
+		"React": [
+			{
+				"name": "React",
+				"module": "react",
+				"isDefault": true
+			}
+		],
+		"it": [
+			{
+				"name": "it",
+				"module": "@jest/globals",
+				"isDefault": false
+			}
+		],
+		"renderer": [
+			{
+				"name": "renderer",
+				"module": "react-test-renderer",
+				"isDefault": true
+			}
+		],
+		"Text": [
+			{
+				"name": "Text",
+				"module": "react-native",
+				"isDefault": false
+			}
+		],
+		"View": [
+			{
+				"name": "View",
+				"module": "react-native",
+				"isDefault": false
+			}
+		],
+		"HolaMundoScreen": [
+			{
+				"name": "HolaMundoScreen",
+				"path": "/Users/santimelo/Dev/ReactNative-4/TestAppp/src/screens/HolaMundoScreen.tsx",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"useState": [
+			{
+				"name": "useState",
+				"module": "react",
+				"isDefault": false
+			}
+		],
+		"Button": [
+			{
+				"name": "Button",
+				"module": "react-native",
+				"isDefault": false
+			}
+		],
+		"TouchableOpacity": [
+			{
+				"name": "TouchableOpacity",
+				"module": "react-native",
+				"isDefault": false
+			}
+		],
+		"StyleSheet": [
+			{
+				"name": "StyleSheet",
+				"module": "react-native",
+				"isDefault": false
+			}
+		],
+		"TouchableNativeFeedback": [
+			{
+				"name": "TouchableNativeFeedback",
+				"module": "react-native",
+				"isDefault": false
+			}
+		],
+		"Platform": [
+			{
+				"name": "Platform",
+				"module": "react-native",
+				"isDefault": false
+			}
+		],
+		"FabButton": [
+			{
+				"name": "FabButton",
+				"path": "/Users/santimelo/Dev/ReactNative-4/TestAppp/src/components/FabButton.tsx",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"CounterScreen": [
+			{
+				"name": "CounterScreen",
+				"path": "/Users/santimelo/Dev/ReactNative-4/TestAppp/src/screens/CounterScreen.tsx",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"SafeAreaView": [
+			{
+				"name": "SafeAreaView",
+				"module": "react-native",
+				"isDefault": false
+			}
+		],
+		"BoxObjectsModelPage": [
+			{
+				"name": "BoxObjectsModelPage",
+				"path": "/Users/santimelo/Dev/ReactNative-4/TestAppp/src/screens/BoxObjectsModelPage.tsx",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"Dimensions": [
+			{
+				"name": "Dimensions",
+				"module": "react-native",
+				"isDefault": false
+			}
+		],
+		"useWindowDimensions": [
+			{
+				"name": "useWindowDimensions",
+				"module": "react-native",
+				"isDefault": false
+			}
+		],
+		"DimensionsScreen": [
+			{
+				"name": "DimensionsScreen",
+				"path": "/Users/santimelo/Dev/ReactNative-4/TestAppp/src/screens/DimensionsScreen.tsx",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"App": [
+			{
+				"name": "App",
+				"path": "/Users/santimelo/Dev/ReactNative-4/TestAppp/App.tsx",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"PositionScreen": [
+			{
+				"name": "PositionScreen",
+				"path": "/Users/santimelo/Dev/ReactNative-4/TestAppp/src/screens/PositionScreen.tsx",
+				"type": "const",
+				"isDefault": false
+			}
+		]
+	}
+}

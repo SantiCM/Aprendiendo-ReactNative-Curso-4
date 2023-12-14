@@ -1,16 +1,28 @@
-import React from 'react'
-import { Text, View } from 'react-native'
+//import { CounterScreen } from './src/screens/CounterScreen';
+//import { BoxObjectsModelPage } from './src/screens/BoxObjectsModelPage';
+import { SafeAreaView } from 'react-native';
+//import { DimensionsScreen } from './src/screens/DimensionsScreen';
+//import { PositionScreen } from './src/screens/PositionScreen';
+import { FlexScreen } from './src/screens/FlexScreen';
+import { TareaScreen } from './src/screens/TareaScreen';
 
 export const App = () => {
   
   return (
 
-    <View>
+    <SafeAreaView style={{ flex: 1 }}>
 
-      <Text>Holaa</Text>
+      <TareaScreen></TareaScreen>
 
-    </View>
-  
+    </SafeAreaView>
+
   )
 
 }
+
+{/*<HolaMundoScreen></HolaMundoScreen>*/}
+{/*<CounterScreen></CounterScreen>*/}
+{/*<BoxObjectsModelPage></BoxObjectsModelPage>*/}
+{/*<DimensionsScreen></DimensionsScreen>*/}
+{/*<PositionScreen></PositionScreen>*/}
+{/*<FlexScreen></FlexScreen>*/}
